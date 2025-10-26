@@ -1,5 +1,5 @@
 export {}
-import { join } from "https://deno.land/std/path/mod.ts";
+import { join } from "mod";
 const DIV = "------------------------"
 
 console.log("Internal Studio Patcher for Vinegar!")
